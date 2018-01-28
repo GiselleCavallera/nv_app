@@ -1,0 +1,9 @@
+Usuarios: todos pueden ver ciertas cosas. Pero tambien podés definir usuarios para ver otro menú.
+
+Horarios de reuniones
+
+Reflexiones
+
+Cumpleaños
+
+Novedades
